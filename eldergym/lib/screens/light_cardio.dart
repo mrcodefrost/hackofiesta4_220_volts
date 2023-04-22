@@ -17,9 +17,9 @@ class LightCardioScreen extends StatelessWidget {
           Container(
             height: size.height * .45,
             decoration: BoxDecoration(
-              color: kGreenLightColor,
+              color: kShadowColor,
               image: DecorationImage(
-                image: AssetImage("assets/images/meditation_bg.png"),
+                image: AssetImage("assets/images/cardio_bg.png"),
                 fit: BoxFit.fitWidth,
               ),
             ),

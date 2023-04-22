@@ -96,7 +96,7 @@ class HomeScreen extends StatelessWidget {
                       children: <Widget>[
                         CategoryCard(
                           title: "Light Cardio",
-                          svgSrc: "assets/icons/Hamburger.svg",
+                          svgSrc: "assets/icons/cardio_icon.svg",
                           press: () {
                             Navigator.push(
                                 context,
@@ -106,7 +106,7 @@ class HomeScreen extends StatelessWidget {
                         ),
                         CategoryCard(
                           title: "Pilates Exercises",
-                          svgSrc: "assets/icons/Excrecises.svg",
+                          svgSrc: "assets/icons/pilates_icon.svg",
                           press: () {
                             Navigator.push(
                                 context,
@@ -116,7 +116,7 @@ class HomeScreen extends StatelessWidget {
                         ),
                         CategoryCard(
                           title: "Meditation",
-                          svgSrc: "assets/icons/Meditation.svg",
+                          svgSrc: "assets/icons/meditation_icon.svg",
                           press: () {
                             Navigator.push(
                               context,
@@ -128,7 +128,7 @@ class HomeScreen extends StatelessWidget {
                         ),
                         CategoryCard(
                           title: "Weight Training",
-                          svgSrc: "assets/icons/yoga.svg",
+                          svgSrc: "assets/icons/weight_icon.svg",
                           press: () {
                             Navigator.push(
                                 context,
@@ -138,7 +138,7 @@ class HomeScreen extends StatelessWidget {
                         ),
                         CategoryCard(
                           title: "Yoga",
-                          svgSrc: "assets/icons/yoga.svg",
+                          svgSrc: "assets/icons/yoga_icon.svg",
                           press: () {
                             Navigator.push(
                                 context,
@@ -148,7 +148,7 @@ class HomeScreen extends StatelessWidget {
                         ),
                         CategoryCard(
                           title: "Dancing",
-                          svgSrc: "assets/icons/yoga.svg",
+                          svgSrc: "assets/icons/dancing_icon.svg",
                           press: () {
                             Navigator.push(
                                 context,
