@@ -9,17 +9,17 @@ The app is designed to have a very simple and user friendly UI to promote better
   display: flex;
   justify-content: space-between;
   ">
-  <img src = "https://github.com/mrcodefrost/hackofiesta4_220_volts/blob/main/images/1.jpg?raw=true" width="300"/>
-  <img src = "https://github.com/mrcodefrost/hackofiesta4_220_volts/blob/main/images/2.jpg?raw=true" width="300"/>
-  <img src = "https://github.com/mrcodefrost/hackofiesta4_220_volts/blob/main/images/3.jpg?raw=true" width="300"/> 
+  <img src = "https://github.com/mrcodefrost/hackofiesta4_220_volts/blob/main/images/1.jpg?raw=true" width="250"/>
+  <img src = "https://github.com/mrcodefrost/hackofiesta4_220_volts/blob/main/images/2.jpg?raw=true" width="250"/>
+  <img src = "https://github.com/mrcodefrost/hackofiesta4_220_volts/blob/main/images/3.jpg?raw=true" width="250"/> 
 </div>
 
 <div style="
   display: flex;
   justify-content: space-between;
   ">
-  <img src = "https://github.com/mrcodefrost/hackofiesta4_220_volts/blob/main/images/4.jpg?raw=true" width="300"/>
-  <img src = "https://github.com/mrcodefrost/hackofiesta4_220_volts/blob/main/images/5.jpg?raw=true" width="300"/>
+  <img src = "https://github.com/mrcodefrost/hackofiesta4_220_volts/blob/main/images/4.jpg?raw=true" width="250"/>
+  <img src = "https://github.com/mrcodefrost/hackofiesta4_220_volts/blob/main/images/5.jpg?raw=true" width="250"/>
 </div>
 
 ## Developed by Team 220 Volts :zap: :zap:
